@@ -1,2 +1,2 @@
 # Community-Detection-in-Pro-Basketball
-ECSU Honors Thesis Code
+Repository to better store the code used for my Honors Thesis at Eastern Connecticut State
